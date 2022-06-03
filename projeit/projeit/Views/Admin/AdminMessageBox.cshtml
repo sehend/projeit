@@ -1,0 +1,183 @@
+﻿
+@model IEnumerable<Core.Models.Contact>
+
+@{
+    ViewData["Title"] = "AdminMessageBox";
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+
+<body class="hold-transition sidebar-mini">
+
+        <!-- Content Wrapper. Contains page content -->
+            <!-- Content Header (Page header) -->
+            <section class="content-header">
+                <div class="container-fluid">
+                    <div class="row mb-2">
+                        <div class="col-sm-6">
+                            <h1>Mesajlar</h1>
+                        </div>
+                        
+                    </div>
+                </div><!-- /.container-fluid -->
+            </section>
+            <!-- Main content -->
+            
+                    <!-- /.col -->
+                    <div class="col-md-9">
+                        <div class="card card-primary card-outline">
+                          
+                            <!-- /.card-header -->
+                            <div class="card-body p-0">
+                                <div class="mailbox-controls">
+                                    <!-- Check all button -->
+                                    <button type="button" class="btn btn-default btn-sm checkbox-toggle">
+                                        <i class="far fa-square"></i>
+                                    </button>
+                                    <div class="btn-group">
+                                        <button type="button" class="btn btn-default btn-sm"><i class="far fa-trash-alt"></i></button>
+                                        <button type="button" class="btn btn-default btn-sm"><i class="fas fa-reply"></i></button>
+                                        <button type="button" class="btn btn-default btn-sm"><i class="fas fa-share"></i></button>
+                                    </div>
+                                    <!-- /.btn-group -->
+                                    <button type="button" class="btn btn-default btn-sm"><i class="fas fa-sync-alt"></i></button>
+                                   
+                                    <!-- /.float-right -->
+                                </div>
+                                <div class="table-responsive mailbox-messages">
+                                    <table class="table table-hover table-striped">
+
+                                                <thead>
+                                            <tr>
+                                                 <th>
+                                                    Mail Aç
+                                                </th>
+
+                                                <th>
+                                                    Ad
+                                                </th>
+
+                                                  <th>
+                                                     Mesaj
+                                                </th>
+
+                                                  <th>
+                                                    Öncelik
+                                                </th>
+
+                                                  <th>
+                                                      Aciliyet
+                                                </th>
+
+                                                  <th>
+                                                      Durum
+                                                </th>
+
+                                                <th>
+                                                      Proje Durumu
+                                                </th>
+            
+                                            </tr>
+                                            </thead>
+
+
+
+
+                                        <tbody>
+
+                                            @foreach (var item in Model.Reverse())
+                                            {
+                                        
+                                           
+                                            <tr>
+                                               
+                                               <td class="mailbox-name"><a asp-controller="Admin" asp-action="GetContactDetial" asp-route-id="@item.ContactId">Aç</a></td>
+                                                <td class="mailbox-name">@item.UserName</td>
+                                                <td class="mailbox-subject">
+
+                                                    @if (@item.Subject==null)
+                                                    {
+                                                        <b></b>
+                                                    } 
+
+                                                    @if (@item.Subject!=null)
+                                                    {
+                                                         <b>@item.Subject - </b> 
+                                                    }
+
+                                                    @item.Message....
+
+                                                </td>
+                                                <td >@item.priority</td>
+                                                @if (@item.priority=="öncelikli")
+                                                {
+                                                     <td style="background-color:red" >@item.priority</td>
+                                                }
+
+                                                @if (@item.priority=="Öncelikli Değil")
+                                                {
+                                                    <td style="background-color:yellow" >@item.priority</td>
+                                                }
+
+                                                @if(@item.urgency=="Acil")
+                                                {
+                                                    <td style="background-color:red" >@item.urgency</td>
+                                                }
+
+                                                @if(@item.urgency=="Acil Değil")
+                                                {
+                                                    <td style="background-color:yellow" >@item.urgency</td>
+                                                }
+
+                                               
+                                                @if (item.Statusu==null)
+                                                {
+                                                     <td>Durum Belirtilmemiş</td>
+                                                }
+
+                                               @if (@item.Statusu!=null)
+                                               {
+                                                 <td>@item.Statusu</td>
+                                               }
+
+                                            </tr>
+
+                                        }
+                                        </tbody>
+                                    </table>
+                                    <!-- /.table -->
+                                </div>
+                                <!-- /.mail-box-messages -->
+                            </div>
+                            <!-- /.card-body -->
+                            <div class="card-footer p-0">
+                                <div class="mailbox-controls">
+                                    <!-- Check all button -->
+                                    <button type="button" class="btn btn-default btn-sm checkbox-toggle">
+                                        <i class="far fa-square"></i>
+                                    </button>
+                                    <div class="btn-group">
+                                        <button type="button" class="btn btn-default btn-sm"><i class="far fa-trash-alt"></i></button>
+                                        <button type="button" class="btn btn-default btn-sm"><i class="fas fa-reply"></i></button>
+                                        <button type="button" class="btn btn-default btn-sm"><i class="fas fa-share"></i></button>
+                                    </div>
+                                    <!-- /.btn-group -->
+                                    <button type="button" class="btn btn-default btn-sm"><i class="fas fa-sync-alt"></i></button>
+                                   
+                                    <!-- /.float-right -->
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </section>
+
+</body>
+</html>
+
+

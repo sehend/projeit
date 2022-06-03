@@ -1,0 +1,164 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = projeit
+build_property.RootNamespace = projeit
+build_property.ProjectDir = C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\projeit\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\projeit
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/AdminMessageBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5NZXNzYWdlQm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/GetContactDetial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cR2V0Q29udGFjdERldGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/RolApdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sQXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/RolCreat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sQ3JlYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/RoleAssign.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sZUFzc2lnbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/Roles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/SendMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2VuZE1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Admin/UsersAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnNBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/AdminPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZG1pblBhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/Hata.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/Personel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJzb25lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Home/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/PersonelDenemeControllercs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxEZW5lbWVDb250cm9sbGVyY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/DogruAd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcRG9ncnVBZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/GetContactPersonel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcR2V0Q29udGFjdFBlcnNvbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/PersonelGiris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxHaXJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/PersonelMessageBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxNZXNzYWdlQm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/PersonelStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcUGVyc29uZWxTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Personel/SendMailPersonel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uZWxcU2VuZE1haWxQZXJzb25lbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n3yc07zktu
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Shared/_Layout1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-f0wqfgzmxi
+
+[C:/Users/sehen/OneDrive/Masaüstü/projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya/projeit/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-pdv8p3xwjz

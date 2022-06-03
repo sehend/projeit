@@ -1,0 +1,154 @@
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2)\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (2) - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\sehen\OneDrive\Masaüstü\projeit - Kopya - Kopya - Kopya - Kopya - Kopya (3) - Kopya - Kopya - Kopya - Kopya - Kopya\Core\obj\Debug\net6.0\ref\Core.dll
