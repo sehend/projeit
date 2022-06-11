@@ -1,0 +1,135 @@
+﻿@model Core.Model.AnaTable
+@using Core.Model
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Edit</h2>
+<hr />
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div style="margin-right:10px" class="form-group">
+            <label>sponsors</label>
+
+            <select name="SponsorName" id="cars">
+                @foreach (var item in (IEnumerable<Sponsor>)ViewData["sponsors1"])
+                {
+
+                    <option value="@item.SponsorName">@item.SponsorName</option>
+
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>HastaUzmanlık</label>
+
+            <select name="PatientSpecialization" id="cars">
+                @foreach (var item in (IEnumerable<HastaUzmanlık>)ViewData["HastaUzmanlık"])
+                {
+
+                    <option value="@item.HastaUzmanlıkName">@item.HastaUzmanlıkName</option>
+
+
+
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>CancerSpecies:</label>
+
+            <select name="CancerSpecies" id="cars">
+                @foreach (var item in (IEnumerable<KanserTürleri>)ViewData["KanserTürleri"])
+                {
+
+                    <option value="@item.KanserTürüName">@item.KanserTürüName</option>
+
+
+
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>MaterialType:</label>
+
+            <select name="MaterialType" id="cars">
+                @foreach (var item in (IEnumerable<MateryalTipi>)ViewData["MateryalTipi"])
+                {
+
+                    <option value="@item.MateryalTipiName">@item.MateryalTipiName</option>
+
+
+
+                }
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label>TubeType:</label>
+
+            <select name="TubeType" id="cars">
+                @foreach (var item in (IEnumerable<TüpCinsi>)ViewData["TüpCinsi"])
+                {
+
+                    <option value="@item.TüpCinsiName">@item.TüpCinsiName</option>
+
+
+
+                }
+            </select>
+        </div>
+
+
+
+
+        <div class="form-group">
+            <input name="ProjeName" type="text" class="form-control" placeholder="ProjeName">
+        </div>
+        <div class="form-group">
+            <label>TubeType:</label>
+
+            <select name="TubeType" id="cars">
+
+
+                <option value="bekleyen">bekleyen</option>
+
+                <option value="tamamlandı ">tamamlandı</option>
+
+            </select>
+        </div>
+
+        <div class="form-group">
+            <input name="MaterialQuantity" type="text" class="form-control" placeholder="MaterialQuantity">
+        </div>
+        <div class="form-group">
+            <input name="Phase" type="text" class="form-control" placeholder="Phase">
+        </div>
+
+        <input style="margin-right:20px" type="date" name="Tarih">
+
+
+
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+
+    </div>
+
+
+}
+

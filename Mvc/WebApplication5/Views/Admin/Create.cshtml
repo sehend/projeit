@@ -1,0 +1,87 @@
+﻿@model Core.Model.AppUser
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Kayı Ol</h2>
+<hr />
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+ 
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div style="margin-left:150px" class="form-group">
+       
+        <div class="col-md-10">
+            Ad  @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div style="margin-left:150px" class="form-group">
+      
+       <div class="col-md-10">
+           SoyAd @Html.EditorFor(model => model.SureName, new { htmlAttributes = new { @class = "form-control" } })
+           @Html.ValidationMessageFor(model => model.SureName, "", new { @class = "text-danger" })
+       </div>
+    </div>
+
+    <div style="margin-left:150px" class="form-group">
+        
+        <div class="col-md-10">
+            Email  @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div style="margin-left:150px" class="form-group">
+        
+        <div class="col-md-10">
+            Password  @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div style="margin-left:1650px"  class="form-group">
+
+        AdminRole 
+        <fieldset>
+
+            <select id="AdminRole" name="AdminRole" class="form-control">
+
+
+
+                <option value="Admin">Admin</option>
+                <option value="Personel">Personel</option>
+
+
+
+            </select>
+
+
+
+
+        </fieldset>
+
+
+    </div>
+
+    <div   class="form-group">
+        <div style="margin-left: 165px" class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Kayıt Ol" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,15 @@
+1-)visual studio 2019 defalarca bozuldugu için kodlar karısık sıtılde yazılmıstır kod okuması zordur
+
+2-)Projeyi yanlış okumam dan dolayı fazla kodlar sınıflar vardır visual studio 2019 bozulmasın dıye sılmedım isterseniz sile bilirim
+
+3-)kayıt ol sayfasında rol atanabilir db boş gelcegi için sonra rol butonunu kaldırın 
+
+4-)visual studio 2019 view kısmında hata fırlatcaktır sistemde hata yoktur beginformu hata olarak kabul etmektedir ama çalışmakta bir sıkıntısı yoktur.
+
+5-)Aklıma gelenler bunlar lütfen olumlu yada olumsuz arayarak donun gelişimim için nerelerde hata yaptıgımı bilmek isterim
+
+6-)Dahbord nedir bilmiyorum Araştırdıgım kadarı ile yaptım
+
+7-)Backhand tarafında ne kadar iyi görsemde ön yüz tarafında yetersizim umarım anlarsınız
+
+8-)İyi Çalışmalar Saygılarımla....

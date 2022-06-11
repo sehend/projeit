@@ -1,0 +1,256 @@
+﻿@using PagedList
+
+@using PagedList.Mvc
+
+
+@model PagedList.IPagedList<Core.Model.MateryalTipi>
+
+@{
+    ViewBag.Title = "MateryalTipiListe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<h2>Admin Sayfası</h2>
+
+<hr />
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="container" style="margin-top:30px">
+    <div class="row">
+        <!-- BEGIN INBOX -->
+        <div class="col-md-12">
+            <div class="grid email">
+                <div class="grid-body">
+                    <div class="row">
+                        <!-- BEGIN INBOX MENU -->
+                        <div class="col-md-3">
+
+
+
+
+                            <div>
+                                <ul class="nav nav-pills nav-stacked">
+
+                                    <li style="text-align:center;" class="active"><a href="/projectable/Liste"> Ana Sayfa</a></li>
+
+                                </ul>
+                            </div>
+
+                            <div style="margin-top:15px;">
+                                <ul class="nav nav-pills nav-stacked">
+
+                                    <li style="text-align:center;" class="active"><a href="/projectable/KulanıcıListele"> Kulanıcı Bilgileri</a></li>
+
+                                </ul>
+                            </div>
+
+                            <div style="margin-top:15px;">
+                                <ul class="nav nav-pills nav-stacked">
+
+                                    <li style="text-align:center;" class="active"><a href="/projectable/AdminyetkisizSayfa"> AdminyetkisizSayfa</a></li>
+
+                                </ul>
+                            </div>
+                            <br />
+                            <div class="dropdown">
+                                <button style="width:263px" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                                    Dropdown Example
+                                    <span class="caret"></span>
+                                </button>
+                                <ul style="background-color:cornflowerblue;" class="dropdown-menu">
+                                    <li style="width:263px"><a href="/projectable/SponsorListe">SponsorListe</a></li>
+                                    <li style="width:263px" class="dropdown-toggle"><a href="/projectable/HastaUzmanlıkListe">HastaUzmanlıkListe</a></li>
+                                    <li style="width:263px" class="dropdown-toggle"><a href="/projectable/KanserTürleriListe">KanserTürleriListe</a></li>
+                                    <li style="width:263px" class="dropdown-toggle"><a href="/projectable/MateryalTipiListe">MateryalTipiListe</a></li>
+                                    <li style="width:263px" class="dropdown-toggle"><a href="/projectable/TüpCinsiListe">TüpCinsiListe</a></li>
+                                </ul>
+                            </div>
+
+
+
+                        </div>
+                        <!-- END INBOX MENU -->
+                        <!-- BEGIN INBOX CONTENT -->
+                        <div class="col-md-9">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <label style="margin-right: 8px;" class="">
+                                        <div class="icheckbox_square-blue" style="position: relative;"><input type="checkbox" id="check-all" class="icheck" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; border: 0px; opacity: 0; background: rgb(255, 255, 255);"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; border: 0px; opacity: 0; background: rgb(255, 255, 255);"></ins></div>
+                                    </label>
+                                    <div class="btn-group">
+
+                                        <a style="margin-bottom:10px;margin-left:-10px;width:60px" class="btn btn-block btn-primary" data-toggle="modal" data-target="#compose-modal">Ekle</a>
+
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="#">Mark as read</a></li>
+                                            <li><a href="#">Mark as unread</a></li>
+                                            <li><a href="#">Mark as important</a></li>
+                                            <li class="divider"></li>
+                                            <li><a href="#">Report spam</a></li>
+                                            <li><a href="#">Delete</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+
+                            </div>
+
+                            <div class="padding"></div>
+
+                            <div class="table-responsive">
+
+
+                                <table id="tbl_exporttable_to_xls" class="table">
+                                    <tr>
+                                        <th>
+                                           Materyal Tipi
+                                        </th>
+
+                                    </tr>
+
+                                    @foreach (var item in Model.Reverse())
+                                    {
+                                        <tr>
+
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.MateryalTipiName)
+                                            </td>
+
+                                            <td>
+                                                <a data-toggle="modal" data-target="#compose-modal">@Html.ActionLink("Edit", "MateryalTipiEdit", new { id = item.Id })</a> |
+
+                                                @Html.ActionLink("Delete", "MateryalTipiDelete", new { id = item.Id })
+                                            </td>
+
+                                        </tr>
+                                    }
+
+
+
+                                </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                <br />
+
+
+                            </div>
+
+                        
+                            @Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("MateryalTipiListe", new { sayfa }))
+
+                        </div>
+                        <!-- END INBOX CONTENT -->
+                        <!-- BEGIN COMPOSE MESSAGE -->
+                        <div class="modal fade" id="compose-modal" tabindex="-1" role="dialog" aria-hidden="true">
+                            <div class="modal-wrapper">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header bg-blue">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                            <h4 class="modal-title"><i class="fa fa-envelope"></i> Compose New Message</h4>
+                                        </div>
+                                        @using (Html.BeginForm("MateryalTipiCreate", "projectable", FormMethod.Post))
+                                        {
+
+
+
+
+
+                                            <div class="form-group">
+                                                <input style="margin-left:15px" name="MateryalTipiName" type="text" class="form-control" placeholder="Materyal Tipi">
+                                            </div>
+
+
+
+
+
+
+
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Discard</button>
+                                                <button type="submit" class="btn btn-primary pull-right"><i class="fa fa-envelope"></i> Send Message</button>
+                                            </div>
+
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <!-- END COMPOSE MESSAGE -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END INBOX -->
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="https://unpkg.com/xlsx@0.15.1/dist/xlsx.full.min.js"></script>
+<script>
+    function ExportToExcel(type, fn, dl) {
+        var elt = document.getElementById('tbl_exporttable_to_xls');
+        var wb = XLSX.utils.table_to_book(elt, { sheet: "sheet1" });
+        return dl ?
+            XLSX.write(wb, { bookType: type, bookSST: true, type: 'base64' }) :
+            XLSX.writeFile(wb, fn || ('MySheetName.' + (type || 'xlsx')));
+    }</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

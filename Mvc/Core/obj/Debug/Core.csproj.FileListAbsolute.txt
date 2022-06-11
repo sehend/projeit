@@ -1,0 +1,60 @@
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\obj\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\obj\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\Core.dll.config
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\EntityFramework.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\EntityFramework.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\Core.dll.config
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\EntityFramework.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\EntityFramework.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\obj\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya\Core\obj\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\Core.dll.config
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\EntityFramework.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\EntityFramework.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\obj\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2)\Core\obj\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\Core.dll.config
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\EntityFramework.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\EntityFramework.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\Core.dll
+C:\Users\sehen\OneDrive\Masaüstü\WebApplication5 - Kopya - Kopya (2) - Kopya - Kopya\Core\obj\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\Core.dll.config
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\Core.dll
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\Core.pdb
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\EntityFramework.dll
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\EntityFramework.xml
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\obj\Debug\Core.dll
+C:\Users\sehen\OneDrive\Belgeler\GitHub\sehend\Core\obj\Debug\Core.pdb

@@ -1,0 +1,214 @@
+﻿@model IEnumerable<Core.Model.EMailTable>
+
+@{
+    ViewBag.Title = "Liste";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="container" style="margin-top:30px">
+<div class="row">
+	<!-- BEGIN INBOX -->
+	<div class="col-md-12">
+		<div class="grid email">
+			<div class="grid-body">
+				<div class="row">
+					<!-- BEGIN INBOX MENU -->
+                    <div class="col-md-3">
+                       
+                      
+
+                     
+                        <div>
+                            <ul class="nav nav-pills nav-stacked">
+                                
+                                <li style="text-align:center;" class="active"><a href="#"><i class="fa fa-inbox"></i> Inbox</a></li>
+                                
+                            </ul>
+                        </div>
+
+                        <br />
+
+                        <div class="dropdown">
+                            <button style="width:263px" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+                                Dropdown Example
+                                <span class="caret"></span>
+                            </button>
+                            <ul style="background-color:cornflowerblue;" class="dropdown-menu">
+                                <li style="width:263px"><a href="#">HTML</a></li>
+                                <li style="width:263px" class="dropdown-toggle"><a href="#">CSS</a></li>
+                                <li style="width:263px" class="dropdown-toggle"><a href="#">JavaScript</a></li>
+                            </ul>
+                        </div>
+
+
+
+                    </div>
+                        <!-- END INBOX MENU -->
+                        <!-- BEGIN INBOX CONTENT -->
+                        <div class="col-md-9">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <label style="margin-right: 8px;" class="">
+                                        <div class="icheckbox_square-blue" style="position: relative;"><input type="checkbox" id="check-all" class="icheck" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; border: 0px; opacity: 0; background: rgb(255, 255, 255);"><ins class="iCheck-helper" style="position: absolute; top: -20%; left: -20%; display: block; width: 140%; height: 140%; margin: 0px; padding: 0px; border: 0px; opacity: 0; background: rgb(255, 255, 255);"></ins></div>
+                                    </label>
+                                    <div class="btn-group">
+                                        <a class="btn btn-block btn-primary" data-toggle="modal" data-target="#compose-modal"><i class="fa fa-pencil"></i>&nbsp;&nbsp;NEW MESSAGE</a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li><a href="#">Mark as read</a></li>
+                                            <li><a href="#">Mark as unread</a></li>
+                                            <li><a href="#">Mark as important</a></li>
+                                            <li class="divider"></li>
+                                            <li><a href="#">Report spam</a></li>
+                                            <li><a href="#">Delete</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 search-form">
+                                    @using (Html.BeginForm("Liste", "Mail", FormMethod.Get))
+                                    {
+                                        <p>
+                                            Aranacak Mesaj:@Html.TextBox("p")
+
+                                            <input type="submit" value="Ara" />
+
+                                        </p>
+                                    }
+                                </div>
+                            </div>
+
+                            <div class="padding"></div>
+
+                            <div class="table-responsive">
+
+
+                                <table id="tbl_exporttable_to_xls" class="table">
+                                    <tr>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Email)
+                                        </th>
+                                        <th>
+                                            @Html.DisplayNameFor(model => model.Message)
+                                        </th>
+                                        <th></th>
+                                    </tr>
+
+                                    @foreach (var item in Model.Reverse())
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Email)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Message)
+                                            </td>
+
+                                        </tr>
+                                    }
+
+
+
+                                </table>
+
+
+
+                                <button  onclick="ExportToExcel('xlsx')">Export table to excel</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            </div>
+
+                            <br />
+
+                           
+
+                            <ul class="pagination">
+                                <li class="disabled"><a href="#">«</a></li>
+                                <li class="active"><a href="#">1</a></li>
+                                <li><a href="#">2</a></li>
+                                <li><a href="#">3</a></li>
+                                <li><a href="#">4</a></li>
+                                <li><a href="#">5</a></li>
+                                <li><a href="#">»</a></li>
+                            </ul>
+                        </div>
+                        <!-- END INBOX CONTENT -->
+                        <!-- BEGIN COMPOSE MESSAGE -->
+                        <div class="modal fade" id="compose-modal" tabindex="-1" role="dialog" aria-hidden="true">
+                            <div class="modal-wrapper">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header bg-blue">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                            <h4 class="modal-title"><i class="fa fa-envelope"></i> Compose New Message</h4>
+                                        </div>
+                                        @using (Html.BeginForm("Create", "Mail", FormMethod.Post))
+                                        {
+
+                                            <div class="modal-body">
+                                                <div class="form-group">
+                                                    <input name="Email" type="text" class="form-control" placeholder="Email">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input name="Message" type="text" class="form-control" placeholder="Message">
+                                                </div>
+
+
+
+
+                                            </div>
+
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Discard</button>
+                                                <button type="submit" class="btn btn-primary pull-right"><i class="fa fa-envelope"></i> Send Message</button>
+                                            </div>
+
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END COMPOSE MESSAGE -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END INBOX -->
+    </div>
+</div>
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+<script type="text/javascript" src="https://unpkg.com/xlsx@0.15.1/dist/xlsx.full.min.js"></script>
+<script>
+    function ExportToExcel(type, fn, dl) {
+        var elt = document.getElementById('tbl_exporttable_to_xls');
+        var wb = XLSX.utils.table_to_book(elt, { sheet: "sheet1" });
+        return dl ?
+            XLSX.write(wb, { bookType: type, bookSST: true, type: 'base64' }) :
+            XLSX.writeFile(wb, fn || ('MySheetName.' + (type || 'xlsx')));
+    }</script>
